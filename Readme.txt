@@ -1,0 +1,1 @@
+In this Project, we implemented a Single Cycle (SC) with a full Datapath that supports the RV32I base integer instruction (40 instructions)—except (LUI, AUPIC, JAL, JALR, BNE, BLT, BGE, BLTU, BGEU, LB, LH, LBU, LHU, SB, SH)—and tested them using certain test cases for each type. 

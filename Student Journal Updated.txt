@@ -1,0 +1,78 @@
+Student Journal
+
+
+
+
+
+
+
+17/10 We finished the Single Cycle implementation in Lab 6.
+
+
+
+24/10 We read the project requirements, planned the work, and began addapting the Single Cycle to the project + Journal inception.
+
+
+
+29/10 We successfuly addapted the Single Cycle (added the given support code) and began on adding the I-Type Inst.
+
+
+
+30/10 I-Type Inst fixing and testing + testing R-Type Inst from previous lab code.
+
+
+
+01/11 I-Type Inst fixing and testing + Working on some code fixes (Adjusting the modules for the new code and previous errors reappearing).
+
+
+
+02/11 I-Type Inst finalizing + adding Branch and fixing some shifting problems.
+
+
+
+03/11 Adding the EBREAK, FENCE, ECALL + Further testing + debugging previous errors (syntax and some problems that apperared early on when we added the support code in the imm gen)
+
+
+
+04/11 Final testing + Gathering screenshots and report inception
+
+
+
+05/11 Journal End + txt file + report end.
+
+
+
+21/11 Milestone revison + Lab Work Transition (Taking the already made pipelined implemetation of 4 registers and putting our previous milestone on it AND taking the forwarding unit while removing the hazarding unit)
+
+
+
+22/11 Jornal update + Finishing support for the previously unsupported Instructions (Branching)
+
+
+
+23/11 Finishing support for the previously unsupported Instructions (Branching, JAL & JALR) + Began developing the New Single Memory by redirecting the input and outputs of every stage and revising the Clock.
+
+
+
+
+24/11 Finishing support for the previously unsupported Instructions (Branching, JAL & JALR) + Revising the Clock + Making Test cases + Modyfying the main CU
+
+
+
+
+25/11 Finishing support for the previously unsupported Instructions (Branching, JAL & JALR, Imm) + Adjusting the Datapath for the new code and Error Handeling previous mistakes.
+
+
+
+26/11 Started the Report and continued work on the new Datapath + Fbga testing (Failed due to new memeory adjustements) + BONUS MULTIPLICATION
+
+
+
+
+27/11 Finished the report and the final revised and drawn Datapath + Journal End
+
+
+
+
+
+

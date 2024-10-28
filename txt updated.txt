@@ -1,0 +1,17 @@
+									Project 1 
+									Milestone 3
+
+Student Names:
+
+Mohamed waleed elshemy (900193930)
+Noureldeen Amr Allama  (900202115)
+
+
+Project Status:
+
+We successfuly implemented and tested (25) instructions. We are working with 2 Memories (Word addresable). We have no pipelining at the moment. We have not yet implemeted, or tested, the following instructions (LUI, AUPIC, JAL, JALR, BNE, BLT, BGE, BLTU, BGEU, LB, LH, LBU, LHU, SB, SH)
+
+
+Project Update:
+
+We successfuly implemented and tested All (40) instructions. We are working with a Single Ported Memory (Byte addresable) with enchanced performance and clock.We have pipelining at the moment. We also made a bonus feature: Multiplication.
